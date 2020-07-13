@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gues no Asssignment.:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gues_no_Asssignment__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Gues no Asssignment./web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Gues no Asssignment." />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
